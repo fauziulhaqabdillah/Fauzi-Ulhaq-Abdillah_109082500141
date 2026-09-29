@@ -41,7 +41,8 @@ int main() {
 
 ### Output Unguided 1 :
 
-![Output Unguided 1](Struktur%20Data%20no1.png)
+<img width="1920" height="1080" alt="Screenshot (200)" src="https://github.com/user-attachments/assets/583f05e2-cac8-444a-8b28-78b6f6147dcc" />
+
 
 
 penjelasan unguided 1 :
