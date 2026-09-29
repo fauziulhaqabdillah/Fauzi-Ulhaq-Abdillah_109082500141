@@ -100,7 +100,7 @@ int main() {
 
 ### Output Unguided 2 :
 
-![Output Unguided 2](Struktur%20Data%20no2.png)
+<img width="1920" height="1080" alt="Screenshot (201)" src="https://github.com/user-attachments/assets/0368c425-1dd2-4ac1-921b-032de3b143e5" />
 
 penjelasan unguided 2 :
 
