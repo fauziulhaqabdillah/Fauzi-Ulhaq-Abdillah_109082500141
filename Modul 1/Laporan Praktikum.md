@@ -149,7 +149,8 @@ int main() {
 
 ### Output Unguided 3 :
 
-![Output Unguided 3](Struktur%20Data%20no3.png)
+<img width="1920" height="1080" alt="Screenshot (202)" src="https://github.com/user-attachments/assets/555e751c-21c8-4b7d-9813-276d9ed419d7" />
+
 
 penjelasan unguided 3 :
 
