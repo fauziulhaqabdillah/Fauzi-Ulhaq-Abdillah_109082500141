@@ -142,7 +142,7 @@ int main() {
 
 
 
-<img width="1920" height="1080" alt="nomer 1" src="https://github.com/user-attachments/assets/d7d9789f-1133-4e8c-8183-765d22754df5" />
+<img width="1920" height="1080" alt="Screenshot (237)" src="https://github.com/user-attachments/assets/ed35f46d-8762-4e2b-9115-28440134f912" />
 
 
 
@@ -206,7 +206,8 @@ int main() {
 
 
 
-<img width="1920" height="1080" alt="nomer2" src="https://github.com/user-attachments/assets/9076a3eb-7f83-494f-aed2-d9c2cf641e48" />
+<img width="1920" height="1080" alt="Screenshot (236)" src="https://github.com/user-attachments/assets/28a8d695-3b90-46c9-aa33-de88d4add455" />
+
 
 
 penjelasan unguided 2 :
@@ -288,7 +289,8 @@ int main() {
 
 
 
-<img width="1920" height="1080" alt="nomer3" src="https://github.com/user-attachments/assets/e7149abb-93d1-46d9-b54f-2a8cf795ff53" />
+<img width="1920" height="1080" alt="Screenshot (238)" src="https://github.com/user-attachments/assets/0c68a743-cd0c-4ed0-875a-9b7d27d90794" />
+
 
 
 
