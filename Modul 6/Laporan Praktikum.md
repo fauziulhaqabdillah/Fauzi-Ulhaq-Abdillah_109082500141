@@ -446,7 +446,8 @@ int main() {
 ### Output Unguided 1 :
 
 
-<img width="1920" height="1080" alt="no1" src="https://github.com/user-attachments/assets/75a30f06-ade3-4217-b69f-3fee76163b3b" />
+<img width="1920" height="1080" alt="Screenshot (300)" src="https://github.com/user-attachments/assets/01647647-fbf3-44bd-b467-edb416c02a96" />
+
 
 
 
@@ -602,7 +603,8 @@ int main() {
 
 ### Output Unguided 2 :
 
-<img width="1920" height="1080" alt="no2" src="https://github.com/user-attachments/assets/f43b7798-9037-426e-9366-ebf5f74bc2c1" />
+<img width="1920" height="1080" alt="Screenshot (301)" src="https://github.com/user-attachments/assets/45d88d8b-6525-45d9-bc99-566ef471415e" />
+
 
 
 
@@ -814,7 +816,8 @@ int main() {
 
 ### Output Unguided 3 :
 
-<img width="1920" height="1080" alt="no3" src="https://github.com/user-attachments/assets/5e00ba7c-19d3-4b7a-8ec8-68f6b578b26e" />
+<img width="1920" height="1080" alt="Screenshot (302)" src="https://github.com/user-attachments/assets/6658a824-3e8f-49b3-acea-34a3fd749725" />
+
 
 
 
